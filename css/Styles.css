@@ -61,15 +61,15 @@ a:hover{
 }
 
 .bottom-cloud{
-  position: absolute;
+  position: relative;
   left: 350px;
   bottom: 350px;
 }
 
 .top-cloud{
-  position:absolute;
+  position:relative;
   right: 350px;
-  top: 40px;
+  top: 400px;
 }
 .skill-row{
   width: 50%;
